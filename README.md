@@ -1,7 +1,5 @@
 # Nykaa-Powerbi-sales-performance-analysis
 
-# nykaa sales performance analysis (power bi)
-
 this project analyzes nykaa’s sales, marketing, logistics, and customer behavior
 using power bi, with a focus on understanding what drives revenue and where
 operational friction impacts performance.
